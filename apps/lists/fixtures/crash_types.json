@@ -1,0 +1,50 @@
+[
+    {
+        "model": "lists.CrashType",
+        "pk": 1,
+        "fields": {
+            "name": "Прорыв трубы",
+            "specs": [1, 2]
+        }
+    },
+    {
+        "model": "lists.CrashType",
+        "pk": 2,
+        "fields": {
+            "name": "Утечка",
+            "specs": [1, 2]
+        }
+    },
+    {
+        "model": "lists.CrashType",
+        "pk": 3,
+        "fields": {
+            "name": "Закупорка",
+            "specs": [2]
+        }
+    },
+    {
+        "model": "lists.CrashType",
+        "pk": 4,
+        "fields": {
+            "name": "Провал",
+            "specs": [3]
+        }
+    },
+    {
+        "model": "lists.CrashType",
+        "pk": 5,
+        "fields": {
+            "name": "Ремонт колодца",
+            "specs": [3]
+        }
+    },
+    {
+        "model": "lists.CrashType",
+        "pk": 6,
+        "fields": {
+            "name": "Некачественное водоснабжение",
+            "specs": [1]
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "model": "lists.Spec",
+        "pk": 1,
+        "fields": {
+            "name": "Водоснабжение"
+        }
+    },
+    {
+        "model": "lists.Spec",
+        "pk": 2,
+        "fields": {
+            "name": "Канализация"
+        }
+    },
+    {
+        "model": "lists.Spec",
+        "pk": 3,
+        "fields": {
+            "name": "Благоустройство"
+        }
+    }
+]

@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+
+*.py[cod]
+__pycache__/
+.pytest_cache/
+
+/.venv/
+
+.directory
+
+/node_modules/
+
+/static/build/
+/static_root/
+
+/media/
